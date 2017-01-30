@@ -1,0 +1,13 @@
+strong
+{
+	color:#d33682;
+	font-weight:bolder;
+}
+em
+{
+	color:#268bd2;
+	font-style:italic;
+	font-weight:bolder;
+}
+
+img{height:350px;}
